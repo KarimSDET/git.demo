@@ -2,3 +2,7 @@ things to
 do this week
 java
 git github
+
+new things 
+added from git hub 
+
